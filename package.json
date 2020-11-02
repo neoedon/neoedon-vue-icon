@@ -1,5 +1,5 @@
 {
-  "name": "juuust-vue-icon",
+  "name": "neoedon-vue-icon",
   "version": "0.1.2",
   "description": "Juuust Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
@@ -7,7 +7,7 @@
     "dist",
     "es"
   ],
-  "repository": "https://github.com/leadream/juuust-vue-icon.git",
+  "repository": "https://github.com/leadream/neoedon-vue-icon.git",
   "scripts": {
     "generate": "sudo rm -rf src/icons && node bin/build.js",
     "serve": "vue-cli-service serve",
